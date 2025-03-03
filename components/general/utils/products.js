@@ -1,0 +1,86 @@
+export const productos = [
+    {
+      foto: 'https://ae01.alicdn.com/kf/S741c9973899d417985857150a4aedc44R/Camisetas-deportivas-para-hombre-Camiseta-deportiva-para-correr-bloque-de-Color-secado-r-pido-transpirable-manga.jpg',
+      nombre: 'Camiseta Deportiva',
+      descripcion: 'Camiseta de alta calidad para deportes, cómoda y transpirable.',
+      precio: 25,
+    },
+    {
+      foto: 'https://www.walashop.com/media/catalog/product/n/i/nikefd2723002_1.jpg',
+      nombre: 'Zapatillas Running',
+      descripcion: 'Zapatillas de running con tecnología anti-impacto para mayor confort.',
+      precio: 50,
+    },
+    {
+      foto: 'https://acdn-us.mitiendanube.com/stores/001/048/358/products/trueno30-n-c4e82e2a879044ca6e17079541823995-1024-1024.jpg',
+      nombre: 'Mochila de Senderismo',
+      descripcion: 'Mochila resistente al agua, ideal para caminatas largas.',
+      precio: 40,
+    },
+    {
+      foto: 'https://m.media-amazon.com/images/I/31O0tYUbkUL._AC_SY580_.jpg',
+      nombre: 'Gorra de Sol',
+      descripcion: 'Gorra liviana, ideal para protegerte del sol durante actividades al aire libre.',
+      precio: 15,
+    },
+    {
+      foto: 'https://deportehabitat.com.mx/media/catalog/product/cache/24f6d5c179bfc57bccbad8d4fc372b83/H/y/Hydroflask-WideMouthFlexStrawCap-Agave-1_12.jpg',
+      nombre: 'Botellas Térmicas',
+      descripcion: 'Botellas de acero inoxidable que mantienen tus bebidas frías o calientes por horas.',
+      precio: 30,
+    },
+    {
+      foto: 'https://m.media-amazon.com/images/I/61mmwLzic5L.jpg',
+      nombre: 'Reloj Deportivo',
+      descripcion: 'Reloj con cronómetro y monitor de frecuencia cardíaca, ideal para entrenamientos.',
+      precio: 70,
+    },
+    {
+      foto: 'https://www.steren.cr/media/catalog/product/cache/b69086f136192bea7a4d681a8eaf533d/image/22982c323/audifonos-bluetooth-multipunto-con-extra-bass-azules.jpg',
+      nombre: 'Auriculares Bluetooth',
+      descripcion: 'Auriculares inalámbricos con cancelación de ruido para entrenar sin distracciones.',
+      precio: 60,
+    },
+    {
+      foto: 'https://www.fitnesstown.com.mx/cdn/shop/files/FITNESS-TOWN-Guantes-de-entrenamiento-Adidas-Essential-Verde-Portada.jpg',
+      nombre: 'Guantes de Entrenamiento',
+      descripcion: 'Guantes para entrenamiento de gimnasio, con soporte para muñecas.',
+      precio: 20,
+    },
+    {
+      foto: 'https://p.turbosquid.com/ts-thumb/dk/uBXkpm/kNh1XNSE/etapemain/jpg/1603705400/600x600/fit_q87/eae6ae9340e7e8ec44fa09748b2abb713612c0db/etapemain.jpg',
+      nombre: 'Cinta Métrica Digital',
+      descripcion: 'Cinta métrica digital para medir con precisión, ideal para proyectos de bricolaje.',
+      precio: 35,
+    },
+    {
+      foto: 'https://media.futbolmania.com/media/catalog/product/cache/1/image/0f330055bc18e2dda592b4a7c3a0ea22/C/U/CU8090-410_bolsa-deporte-color-azul-nike-academy-team-mediana_1_completa-frontal.jpg',
+      nombre: 'Bolsa de Deporte',
+      descripcion: 'Bolsa de deporte espaciosa, perfecta para llevar tu equipo de entrenamiento.',
+      precio: 45,
+    },
+    {
+      foto: 'https://motosyservitecas.com/wp-content/uploads/2024/06/HRV109JT-Chaqueta-impermeable-hevik-twister-transparente-adelante.jpg',
+      nombre: 'Chaqueta Impermeable',
+      descripcion: 'Chaqueta ligera e impermeable, perfecta para el clima variable.',
+      precio: 55,
+    },
+    {
+      foto: 'https://static.nike.com/a/images/f_auto/dpr_3.0,cs_srgb/w_403,c_limit/116ff29d-e7a7-4e25-ad18-0e3b6ef164df/mejores-chalecos-y-cinturones-de-hidrataci%C3%B3n-para-running-de-nike.jpg',
+      nombre: 'Cinturón de Hidratación',
+      descripcion: 'Cinturón con botellas para agua, ideal para correr largas distancias.',
+      precio: 25,
+    },
+    {
+      foto: 'https://m.media-amazon.com/images/I/41DhXO6QeQL._AC_UF894,1000_QL80_.jpg',
+      nombre: 'Kit de Pesas',
+      descripcion: 'Kit de pesas ajustables para entrenamientos en casa.',
+      precio: 85,
+    },
+    {
+      foto: 'https://ss201.liverpool.com.mx/sm/1170360865.jpg',
+      nombre: 'Lentes de Natación',
+      descripcion: 'Lentes de natación con anti-vaho, ideales para nadadores frecuentes.',
+      precio: 20,
+    },
+];
