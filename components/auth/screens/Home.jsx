@@ -11,7 +11,7 @@ const Home = (props) => {
                 JosleApp
             </Text>
             <View style={{ marginVertical: 40 }}>
-                <Btn bgColor={dark} textColor="white" btnLabel="Inicar sesión" press={() => props.navigation.navigate("Login")} />
+                <Btn bgColor={dark} textColor="white" btnLabel="Iniciar sesión" press={() => props.navigation.navigate("Login")} />
                 <Btn bgColor={darkGreen} textColor="white" btnLabel="Registrate" />
             </View>
 
